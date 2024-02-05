@@ -11,7 +11,7 @@ coloredlogs==15.0.1
 dataclasses-json==0.6.3
 distro==1.8.0
 faiss-cpu==1.7.4
-fastapi==0.105.0
+fastapi==0.109.1
 favicon==0.7.0
 frozenlist==1.4.1
 greenlet==3.0.2
